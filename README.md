@@ -13,7 +13,7 @@ Attendees have the opportunity to follow along as we create an LDA Topic Modelli
 - Model visualisation
 - Model deploy
 
-At each stage, the presenter will ask the attendees to run the required code:
+At each stage, the presenter will ask the attendees to run/copy the required code:
 - setup.py 
 - train_model_01.py
 - train_model_02.py
