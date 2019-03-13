@@ -23,3 +23,5 @@ At each stage, the presenter will ask the attendees to run/copy the required cod
 - cdsw_build.sh
 
 Userids and passwords to a demo environment are provided on the day.
+
+Step by step guide is provided in the PDF file - Data Innovation Summit - Workshop notes - Kista SWE 2019 vXX.pdf
